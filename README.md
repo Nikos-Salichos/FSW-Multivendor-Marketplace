@@ -2,7 +2,10 @@
 
 Team: Full Stack Warriors
 
-Our project is our final team project during Coding Bootcamp 12 (C# Stream) https://peoplecerteducation.org/bootcamp/
+This project is my team's final project for Coding Bootcamp 12 (C# Stream) https://peoplecerteducation.org/bootcamp/
+
+It is a multivendor marketplace with single page application(SPA) front end.
+We have implement dynamic filtering and sorting using LINQ.
 
 Project architecture is API based and we have use the following technologies:
 
@@ -32,12 +35,3 @@ Frontend:
 ![image](https://user-images.githubusercontent.com/70713775/116289346-150ee800-a79b-11eb-8ff8-712e73adc09d.png)
 ![image](https://user-images.githubusercontent.com/70713775/116289385-1dffb980-a79b-11eb-94e0-3c13c384771d.png)
 ![image](https://user-images.githubusercontent.com/70713775/116289400-20faaa00-a79b-11eb-8003-1e51bf84e13e.png)
-
-
-
-
-
-
-
-
-

@@ -1,0 +1,1252 @@
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\web.config
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\appsettings.json
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\TeamProjectTest.exe
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\TeamProjectTest.deps.json
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\TeamProjectTest.runtimeconfig.json
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\TeamProjectTest.runtimeconfig.dev.json
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\TeamProjectTest.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\ref\TeamProjectTest.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\TeamProjectTest.pdb
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\Humanizer.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\log4net.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\Microsoft.AspNet.Identity.Core.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\PayPal.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\PayPalCheckoutSdk.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.csprojAssemblyReference.cache
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.AssemblyInfoInputs.cache
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.AssemblyInfo.cs
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.csproj.CoreCompileInputs.cache
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\obj\Debug\net5.0\staticwebassets\TeamProjectTest.StaticWebAssets.Manifest.cache
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\obj\Debug\net5.0\staticwebassets\TeamProjectTest.StaticWebAssets.xml
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\obj\Debug\net5.0\scopedcss\bundle\TeamProjectTest.styles.css
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.RazorTargetAssemblyInfo.cache
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.csproj.CopyComplete
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\obj\Debug\net5.0\ref\TeamProjectTest.dll
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.pdb
+C:\Users\despo\Desktop\NewProject\Auto\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.genruntimeconfig.cache
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\web.config
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\appsettings.json
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\TeamProjectTest.exe
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\TeamProjectTest.deps.json
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\TeamProjectTest.runtimeconfig.json
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\TeamProjectTest.runtimeconfig.dev.json
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\TeamProjectTest.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\ref\TeamProjectTest.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\TeamProjectTest.pdb
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\log4net.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\MailKit.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\MimeKit.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\NETCore.MailKit.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\PayPal.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\PayPalCheckoutSdk.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.AssemblyInfoInputs.cache
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.AssemblyInfo.cs
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.csproj.CoreCompileInputs.cache
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\obj\Debug\net5.0\staticwebassets\TeamProjectTest.StaticWebAssets.Manifest.cache
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\obj\Debug\net5.0\staticwebassets\TeamProjectTest.StaticWebAssets.xml
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\obj\Debug\net5.0\scopedcss\bundle\TeamProjectTest.styles.css
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.RazorTargetAssemblyInfo.cache
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.csproj.CopyComplete
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\obj\Debug\net5.0\ref\TeamProjectTest.dll
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.pdb
+C:\Users\Nikos\source\repos\TeamProject18032021\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.genruntimeconfig.cache
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\web.config
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\appsettings.json
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\TeamProjectTest.exe
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\TeamProjectTest.deps.json
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\TeamProjectTest.runtimeconfig.json
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\TeamProjectTest.runtimeconfig.dev.json
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\TeamProjectTest.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\ref\TeamProjectTest.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\TeamProjectTest.pdb
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\Humanizer.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\log4net.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\MailKit.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.AspNet.Identity.Core.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\MimeKit.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\NETCore.MailKit.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\PayPal.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\PayPalCheckoutSdk.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.AssemblyInfoInputs.cache
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.AssemblyInfo.cs
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.csproj.CoreCompileInputs.cache
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\obj\Debug\net5.0\staticwebassets\TeamProjectTest.StaticWebAssets.Manifest.cache
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\obj\Debug\net5.0\staticwebassets\TeamProjectTest.StaticWebAssets.xml
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\obj\Debug\net5.0\scopedcss\bundle\TeamProjectTest.styles.css
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.RazorTargetAssemblyInfo.cache
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.csproj.CopyComplete
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\obj\Debug\net5.0\ref\TeamProjectTest.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.pdb
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.genruntimeconfig.cache
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.csprojAssemblyReference.cache
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\TeamProjectTest.Views.dll
+C:\Users\despo\Desktop\Project 22 03 2021\TeamProjectTest\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\web.config
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\appsettings.json
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\TeamProjectTest.exe
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\TeamProjectTest.deps.json
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\TeamProjectTest.runtimeconfig.json
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\TeamProjectTest.runtimeconfig.dev.json
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\TeamProjectTest.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\ref\TeamProjectTest.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\TeamProjectTest.pdb
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\TeamProjectTest.Views.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\CoreTweet.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\Humanizer.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\log4net.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\MailKit.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.Facebook.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\MimeKit.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\NETCore.MailKit.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\PayPal.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\PayPalCheckoutSdk.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\Hammock.ClientProfile.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\TweetSharp.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.csprojAssemblyReference.cache
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.AssemblyInfoInputs.cache
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.AssemblyInfo.cs
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.csproj.CoreCompileInputs.cache
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\obj\Debug\net5.0\staticwebassets\TeamProjectTest.StaticWebAssets.Manifest.cache
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\obj\Debug\net5.0\staticwebassets\TeamProjectTest.StaticWebAssets.xml
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\obj\Debug\net5.0\scopedcss\bundle\TeamProjectTest.styles.css
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.RazorTargetAssemblyInfo.cache
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.csproj.CopyComplete
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\obj\Debug\net5.0\ref\TeamProjectTest.dll
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.pdb
+C:\Users\despo\Desktop\Project 02 04 2021 new\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.genruntimeconfig.cache
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\web.config
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\appsettings.json
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\TeamProjectTest.exe
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\TeamProjectTest.deps.json
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\TeamProjectTest.runtimeconfig.json
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\TeamProjectTest.runtimeconfig.dev.json
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\TeamProjectTest.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\ref\TeamProjectTest.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\TeamProjectTest.pdb
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\TeamProjectTest.Views.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\CoreTweet.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\Humanizer.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\log4net.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\MailKit.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.Facebook.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\MimeKit.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\NETCore.MailKit.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\PayPal.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\PayPalCheckoutSdk.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\Hammock.ClientProfile.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\TweetSharp.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.csprojAssemblyReference.cache
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.AssemblyInfoInputs.cache
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.AssemblyInfo.cs
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.csproj.CoreCompileInputs.cache
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\obj\Debug\net5.0\staticwebassets\TeamProjectTest.StaticWebAssets.Manifest.cache
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\obj\Debug\net5.0\staticwebassets\TeamProjectTest.StaticWebAssets.xml
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\obj\Debug\net5.0\scopedcss\bundle\TeamProjectTest.styles.css
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.RazorTargetAssemblyInfo.cache
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.csproj.CopyComplete
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\obj\Debug\net5.0\ref\TeamProjectTest.dll
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.pdb
+C:\Users\despo\Desktop\Project 05 April 2021\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.genruntimeconfig.cache
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\web.config
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\appsettings.json
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\TeamProjectTest.exe
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\TeamProjectTest.deps.json
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\TeamProjectTest.runtimeconfig.json
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\TeamProjectTest.runtimeconfig.dev.json
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\TeamProjectTest.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\ref\TeamProjectTest.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\TeamProjectTest.pdb
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\TeamProjectTest.Views.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\CoreTweet.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\log4net.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\MailKit.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.Facebook.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\MimeKit.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\NETCore.MailKit.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\PayPal.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\PayPalCheckoutSdk.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikos\source\repos\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.AssemblyInfoInputs.cache
+C:\Users\Nikos\source\repos\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.AssemblyInfo.cs
+C:\Users\Nikos\source\repos\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.csproj.CoreCompileInputs.cache
+C:\Users\Nikos\source\repos\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Nikos\source\repos\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nikos\source\repos\TeamProjectTest\obj\Debug\net5.0\staticwebassets\TeamProjectTest.StaticWebAssets.Manifest.cache
+C:\Users\Nikos\source\repos\TeamProjectTest\obj\Debug\net5.0\staticwebassets\TeamProjectTest.StaticWebAssets.xml
+C:\Users\Nikos\source\repos\TeamProjectTest\obj\Debug\net5.0\scopedcss\bundle\TeamProjectTest.styles.css
+C:\Users\Nikos\source\repos\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.RazorTargetAssemblyInfo.cache
+C:\Users\Nikos\source\repos\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.csproj.CopyComplete
+C:\Users\Nikos\source\repos\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\obj\Debug\net5.0\ref\TeamProjectTest.dll
+C:\Users\Nikos\source\repos\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.pdb
+C:\Users\Nikos\source\repos\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.genruntimeconfig.cache
+C:\Users\Nikos\source\repos\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.csprojAssemblyReference.cache
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\web.config
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\appsettings.json
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\TeamProjectTest.exe
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\TeamProjectTest.deps.json
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\TeamProjectTest.runtimeconfig.json
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\TeamProjectTest.runtimeconfig.dev.json
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\TeamProjectTest.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\ref\TeamProjectTest.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\TeamProjectTest.pdb
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\TeamProjectTest.Views.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\CoreTweet.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\Humanizer.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\log4net.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\MailKit.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.Facebook.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\MimeKit.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\NETCore.MailKit.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\PayPal.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\PayPalCheckoutSdk.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.AssemblyInfoInputs.cache
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.AssemblyInfo.cs
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.csproj.CoreCompileInputs.cache
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\obj\Debug\net5.0\staticwebassets\TeamProjectTest.StaticWebAssets.Manifest.cache
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\obj\Debug\net5.0\staticwebassets\TeamProjectTest.StaticWebAssets.xml
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\obj\Debug\net5.0\scopedcss\bundle\TeamProjectTest.styles.css
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.RazorTargetAssemblyInfo.cache
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.csproj.CopyComplete
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\obj\Debug\net5.0\ref\TeamProjectTest.dll
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.pdb
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.genruntimeconfig.cache
+C:\Users\despo\Desktop\Project 9 April\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.csprojAssemblyReference.cache
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\web.config
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\appsettings.json
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\TeamProjectTest.exe
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\TeamProjectTest.deps.json
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\TeamProjectTest.runtimeconfig.json
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\TeamProjectTest.runtimeconfig.dev.json
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\TeamProjectTest.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\ref\TeamProjectTest.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\TeamProjectTest.pdb
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\TeamProjectTest.Views.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\CoreTweet.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\log4net.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\MailKit.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.Facebook.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\MimeKit.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\NETCore.MailKit.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\PayPal.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\PayPalCheckoutSdk.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.AssemblyInfoInputs.cache
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.AssemblyInfo.cs
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.csproj.CoreCompileInputs.cache
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\obj\Debug\net5.0\staticwebassets\TeamProjectTest.StaticWebAssets.Manifest.cache
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\obj\Debug\net5.0\staticwebassets\TeamProjectTest.StaticWebAssets.xml
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\obj\Debug\net5.0\scopedcss\bundle\TeamProjectTest.styles.css
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.RazorTargetAssemblyInfo.cache
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.csproj.CopyComplete
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\obj\Debug\net5.0\ref\TeamProjectTest.dll
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.pdb
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.genruntimeconfig.cache
+C:\Users\Nikos\Desktop\Project 10 April 2021\TeamProject10April2021\TeamProjectTest\obj\Debug\net5.0\TeamProjectTest.csprojAssemblyReference.cache

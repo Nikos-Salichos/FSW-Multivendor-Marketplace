@@ -1,0 +1,39 @@
+How to run SQL and Backend
+
+1) Execute SQL Script in MicrosoftSQL Server or load .bak file.
+
+2) Unzip Project and run TeamProjectTest.sln
+
+3) In Package Manager Console run the following command 
+
+4) Scaffold-DbContext "Server=.\SQLExpress;Database=TeamProject;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -force
+In app settings --> change the connection string (optional, you may not need it)
+
+5) In Product.cs model, inside the curly brackets of class add the following lines
+
+        [NotMapped]
+        public IFormFile Image { get; set; }
+
+and right click the 2 lines to add "using"  in top of the page
+
+6) You can run the project with ctrl + F5
+
+7) Project should open in SWAGGER UI
+
+
+How to run front end
+
+1) Unzip fsw.zip file
+
+2) Type cmd in path folder
+
+3) npm install
+
+3) npm run serve
+
+4) Through your browser navigate to http://localhost:8080/
+
+5) You are ready to use the application
+
+
+

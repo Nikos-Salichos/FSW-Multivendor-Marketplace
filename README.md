@@ -1,4 +1,4 @@
-# FWS-Multivendor-Marketplace
+# FSW-Multivendor-Marketplace
 
 Team: Full Stack Warriors
 

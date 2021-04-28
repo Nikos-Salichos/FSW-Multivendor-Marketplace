@@ -74,12 +74,12 @@ namespace TeamProjectTest
 
             services.AddSignalR(); //Added for SignalR
 
-            //Douleuei me to  https://www.c-sharpcorner.com/article/authentication-and-authorization-in-asp-net-core-web-api-with-json-web-tokens/
+
             // For Entity Framework  
             services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("ConnStr")));
             services.AddDbContext<TeamProjectContext>(options => options.UseSqlServer(Configuration.GetConnectionString("ConnStr")));
 
-            //Douleuei me to  https://www.c-sharpcorner.com/article/authentication-and-authorization-in-asp-net-core-web-api-with-json-web-tokens/
+
             // For Identity  
 
             services.AddIdentity<ApplicationUser, IdentityRole>(options =>
@@ -101,8 +101,8 @@ namespace TeamProjectTest
             services.AddAuthentication()
                 .AddGoogle(opts =>
                 {
-                    opts.ClientId = "807424932471-c0f5ire0m91lhhv64jt6jo54775gb0lr.apps.googleusercontent.com";
-                    opts.ClientSecret = "wBoqLUvXoY6O-Z-bN0421Wz4";
+                    opts.ClientId = "";
+                    opts.ClientSecret = "";
                     opts.SignInScheme = IdentityConstants.ExternalScheme;
                 });
 
@@ -110,8 +110,8 @@ namespace TeamProjectTest
             //Facebook Login
             services.AddAuthentication().AddFacebook(facebookOptions =>
             {
-                facebookOptions.AppId = "241220304361148";
-                facebookOptions.AppSecret = "0e3b11baa05e30b3946d500b1f378c55";
+                facebookOptions.AppId = "";
+                facebookOptions.AppSecret = "";
             });
 
 
@@ -124,7 +124,7 @@ namespace TeamProjectTest
             //services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
 
 
-            //Douleuei me to  https://www.c-sharpcorner.com/article/authentication-and-authorization-in-asp-net-core-web-api-with-json-web-tokens/
+         
             services.AddAuthentication(options =>
             {
                 options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
@@ -132,7 +132,7 @@ namespace TeamProjectTest
                 options.DefaultScheme = JwtBearerDefaults.AuthenticationScheme;
             })
 
-            //Douleuei me to  https://www.c-sharpcorner.com/article/authentication-and-authorization-in-asp-net-core-web-api-with-json-web-tokens/
+
             .AddJwtBearer(options =>
             {
                 options.SaveToken = true;
@@ -207,7 +207,6 @@ namespace TeamProjectTest
             app.UseStaticFiles();
 
 
-            //Με αυτή την σειρά ΑΥΣΤΗΡΑ
 
             //Global cors policy
             app.UseCors(x => x

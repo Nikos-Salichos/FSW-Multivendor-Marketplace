@@ -42,4 +42,19 @@ Home Page
 Search with auto complete
 ![Search with Auto complete](https://user-images.githubusercontent.com/70713775/116826800-846f4800-ab9e-11eb-8c7e-c1867e895002.png)
 
+Dynamic Filtering and Sorting
+![Dynamic Filtering and Sorting](https://user-images.githubusercontent.com/70713775/116826818-a8cb2480-ab9e-11eb-84af-b28b72f7afb9.png)
+
+Shopping Cart & Paypal Payment
+![Shopping Cart with Paypal](https://user-images.githubusercontent.com/70713775/116826842-c5675c80-ab9e-11eb-94bd-e69434a90dce.png)
+
+Vendor add new product
+![Vendor add new product](https://user-images.githubusercontent.com/70713775/116826858-d9ab5980-ab9e-11eb-9744-a16e2e8187f8.png)
+
+Vendor add product attributes based on category
+![Vendor edit attributes](https://user-images.githubusercontent.com/70713775/116826870-f182dd80-ab9e-11eb-9cde-87ca176d0da4.png)
+
+
+
+
 

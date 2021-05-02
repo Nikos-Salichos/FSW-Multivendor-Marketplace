@@ -35,3 +35,11 @@ Frontend:
 ![image](https://user-images.githubusercontent.com/70713775/116289346-150ee800-a79b-11eb-8ff8-712e73adc09d.png)
 ![image](https://user-images.githubusercontent.com/70713775/116289385-1dffb980-a79b-11eb-94e0-3c13c384771d.png)
 ![image](https://user-images.githubusercontent.com/70713775/116289400-20faaa00-a79b-11eb-8003-1e51bf84e13e.png)
+
+Home Page
+![Home Page](https://user-images.githubusercontent.com/70713775/116826792-6f92b480-ab9e-11eb-8cb0-5bd3e6f9b736.png)
+
+Search with auto complete
+![Search with Auto complete](https://user-images.githubusercontent.com/70713775/116826800-846f4800-ab9e-11eb-8c7e-c1867e895002.png)
+
+

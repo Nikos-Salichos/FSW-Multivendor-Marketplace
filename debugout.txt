@@ -1,0 +1,43 @@
+---- Session started: [2021-04-04T12:11:59.965Z] ----
+[WARN] "a warning"
+[ERROR] "an error"
+"A date:" "Sun Apr 04 2021 15:11:59 GMT+0300 (Eastern European Summer Time)"
+"An array:" ["some", "test", "array"]
+"A function:" function () {
+  return 'oh heck ya debugout';
+}
+"A regex:" /debugout/gi
+"an object with nested objects and arrays..." {
+  name: "Jamie",
+  arr: ["red", "gold", "green", 4, true, false],
+  emptyString: "",
+  nestedObj: {
+    apple: "red",
+    orange: "orange",
+    pear: "green",
+    nestedNestedObj: {
+      red: 0,
+      yellow: 6,
+      green: 4
+    }
+  },
+  date: "Sun Apr 04 2021 15:11:59 GMT+0300 (Eastern European Summer Time)",
+  flag: true,
+  anotherFlag: false
+}
+"an array of objects..." [
+  {
+    genre: "Drum 'n Bass",
+    subgenre: "liquid"
+  }, 
+  {
+    genre: "Dubstep",
+    subgenre: "brostep",
+    someArray: ["some", "test", "array"]
+  }, 
+  {
+    genre: "R&B",
+    subgenre: "soul revival"
+  }
+]
+---- Session duration: 00:00:11 ----
